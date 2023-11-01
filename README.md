@@ -24,8 +24,7 @@ It's all folks
 <br>
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkadermolla)](https://github.com/kader009/github-readme-stats)
-<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kader009&show_icons=true)  <br>
 
 
   ### ⚙️ &nbsp;GitHub Analytics
