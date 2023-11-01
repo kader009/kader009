@@ -24,7 +24,7 @@ It's all folks
 <br>
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kader009)](https://github.com/kader009/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkadermolla)](https://github.com/kader009/github-readme-stats)
 <br>
 
 
