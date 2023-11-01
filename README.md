@@ -7,7 +7,7 @@
 <br>
 <br>
 
-### Hi there 👋, My name is Md Abdul Kader Molla 
+### Hi there 👋, My Name is Md Abdul Kader Molla 
 I am from Bangladesh and a Front-End Developer 🐱‍👤🐱‍👤
 
 Skills: JAVASCRIPT / REACT / JS / HTML / CSS / BOOTSTRAP
