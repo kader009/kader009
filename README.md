@@ -8,7 +8,21 @@
 <br>
 
 ## 🚀 About Me
-I'm Md Abdul kader Molla From Bangladesh, A Front End Developer 🐱‍👤🐱‍👤
+<p>
+  <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
+</p>
+
+Programing ❤️| Physics 💙| Games 💚
+
+I'm from Sao Paulo - Brazil  
+
+I studied Java |Javascript |Kotlin  
+
+I have a site [here](https://arahiroorihara.github.io/home.html)
+
+A programmer who makes some kludges.
+
+It's all folks
 
 
 ## Badges
