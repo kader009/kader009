@@ -7,69 +7,34 @@
 <br>
 <br>
 
-## 🚀 About Me
+### Hi there 👋, My name is Md Abdul Kader Molla 
+I am from Bangladesh and a Front-End Developer 🐱‍👤🐱‍👤
 
-Programing ❤️| Physics 💙| Games 💚
+Skills: JAVASCRIPT / REACT / JS / HTML / CSS / BOOTSTRAP
 
-I'm from Sao Paulo - Brazil  
-
-I studied Java |Javascript |Kotlin  
-
-I have a site [here](https://arahiroorihara.github.io/home.html)
-
-A programmer who makes some kludges.
-
-It's all folks
-
-<br>
-
-<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kader009&show_icons=true)  <br>
+- 🌱 I’m currently learning TypeScript, Nextjs, Docker, Redux 
+- 💬 Ask me about What Ever You Want 🙌 
+- 📫 How to reach me: Follow My Github Bio 🛴 
+- ⚡ Fun fact: Movie Lover ❤ 
 
 
-  ### ⚙️ &nbsp;GitHub Analytics
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kader009)  
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
-</p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kader009)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kader009)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kader009&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/kader009)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=kader009)  
+
+
 
 <br>
 
 
-## Badges
 
-Add badges from somewhere like [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## What I am good at
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
-<br>
