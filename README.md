@@ -7,7 +7,7 @@
 <br>
 
 ## 🚀 About Me
-I'm a Front End Developer From Bangladesh...
+I'm Md Abdul kader Molla From Bangladesh, A Front End Developer 🐱‍👤🐱‍👤
 
 
 ## Badges
