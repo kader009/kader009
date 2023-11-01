@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 <p>
-  <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
+  <img width="200" alt="hello!" align="left" src="[https://giffiles.alphacoders.com/956/9562.gif](https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/200w.webp?cid=ecf05e4775lfph92u7qtclbu2fn35hvtfh5kdnoyhjmro10z&ep=v1_gifs_search&rid=200w.webp&ct=g)">
 </p>
 
 Programing ❤️| Physics 💙| Games 💚
