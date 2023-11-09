@@ -10,7 +10,7 @@
 ### Hi there 👋, My Name is Md Abdul Kader Molla 
 I am from Bangladesh and a Front-End Developer 🐱‍👤🐱‍👤
 
-Skills: JAVASCRIPT / REACT / JS / HTML / CSS / BOOTSTRAP
+Skills: JAVASCRIPT / REACT / HTML / CSS / BOOTSTRAP
 
 - 🌱 I’m currently learning TypeScript, Nextjs, Docker, Redux 
 - 💬 Ask me about What Ever You Want 🙌 
