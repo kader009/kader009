@@ -7,11 +7,11 @@
 <br>
 <br>
 
-# Hey there! 🌟 I'm Md Abdul Kader Molla
+## Hey there! 🌟 I'm Md Abdul Kader Molla
 
 I'm a passionate Front-End Developer from Bangladesh 🎨💻
 
-## 🚀 Skills & Tools
+### 🚀 Skills & Tools
 - **Languages & Frameworks:** JavaScript, React, HTML, CSS, TypeScript, Next.js
 - **UI Libraries:** Bootstrap, TailwindCSS
 
