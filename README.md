@@ -7,15 +7,25 @@
 <br>
 <br>
 
-### Hi there 👋, My Name is Md Abdul Kader Molla 
-I am from Bangladesh and a Front-End Developer 🐱‍👤🐱‍👤
+# Hey there! 🌟 I'm Md Abdul Kader Molla
 
-Skills: JAVASCRIPT / REACT / HTML / CSS / BOOTSTRAP / TAILWINDCSS / TYPESCRIPT / NEXTJS
+I'm a passionate Front-End Developer from Bangladesh 🎨💻
 
-- 🌱 I’m currently learning TypeScript, Nextjs, Docker, Redux 
-- 💬 Ask me about What Ever You Want 🙌 
-- 📫 How to reach me: Follow My Github Bio 🛴 
-- ⚡ Fun fact: Movie Lover ❤ 
+## 🚀 Skills & Tools
+- **Languages & Frameworks:** JavaScript, React, HTML, CSS, TypeScript, Next.js
+- **UI Libraries:** Bootstrap, TailwindCSS
+
+## 🌱 Currently Exploring
+- Diving deep into **TypeScript**, mastering **Next.js**
+- Learning the ropes with **Docker** and **Redux**
+
+## 💬 Let's Connect!
+- Curious about something? Feel free to ask me anything! 💬✨
+- 📫 Want to get in touch? Check out my [GitHub bio](https://github.com/kader009/kader009) for more details 📬📱
+
+## 🎬 Fun Fact
+- I'm a huge movie buff! 🎬🍿
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kader009)  
