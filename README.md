@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## Hey there! 🌟 I'm Md Abdul Kader Molla
+## Hellow there! 🤞🤞 I'm Md Abdul Kader Molla
 
 I'm a passionate Front-End Developer from Bangladesh 🎨💻
 
