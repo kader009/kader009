@@ -6,7 +6,6 @@
     alt="example" />
 </p>
 <br>
-<br>
 
 ## Hello there! 🤞🤞 I'm Md Abdul Kader Molla
 
