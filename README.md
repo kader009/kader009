@@ -36,7 +36,7 @@ I'm a passionate Front-End Developer from Bangladesh 🎨💻
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kader009)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kader009)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kader009)](https://github.com/kader009/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kader009&show_icons=true)  
 
