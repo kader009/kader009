@@ -14,6 +14,7 @@ I'm a passionate Front-End Developer from Bangladesh 🎨💻
 ### 🚀 Skills & Tools
 - **Languages & Frameworks:** JavaScript, React, TailwindCSS, TypeScript, Next.js
 - **UI Libraries:** Bootstrap, Material Ui, Ant Design. 
+- **Comfortable:** Node, MongoDB, Express.js. 
 
 ### 🌱 Currently Exploring
 - Diving deep into **TypeScript**, mastering **Next.js**
