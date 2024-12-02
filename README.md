@@ -18,7 +18,7 @@ I'm a passionate Front-End Developer from Bangladesh 🎨💻
 
 ### 🌱 Currently Exploring
 - Diving deep into **TypeScript**, mastering **Next.js**
-- Learning the ropes with **Docker**, **Redux**, **Node**, **MongoDB**, **Express** and **GraphQL**
+- Learning the ropes with **Docker**, **Redux**, **Node**, **MongoDB**, and **Express** 
 
 ### 💬 Let's Connect!
 - Curious about something? Feel free to ask me anything! 💬✨
