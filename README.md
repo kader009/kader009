@@ -7,7 +7,7 @@
 </p>
 <br>
 
-## Hello there! 🤞🤞 I'm Md Abdul Kader Molla
+## Hello there! 👋👋 I'm Md Abdul Kader Molla
 
 I'm a passionate Front End Developer from Bangladesh 🍟
 
