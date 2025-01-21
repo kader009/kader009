@@ -9,7 +9,7 @@
 
 ## Hello there! 🤞🤞 I'm Md Abdul Kader Molla
 
-I'm a passionate Front-End Developer from Bangladesh 🎨💻
+I'm a passionate Front End Developer from Bangladesh 🍟
 
 ### 🚀 Skills & Tools
 - **Languages & Frameworks:** JavaScript, React, TailwindCSS, TypeScript, Next.js
