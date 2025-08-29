@@ -17,7 +17,7 @@ I'm a passionate Front End Developer from Bangladesh 🍟
 - **Comfortable:** Node, MongoDB, Express.js. 
 
 ### 🌱 Currently Exploring
-- Diving deep into **TypeScript**, mastering **Next.js**
+- Diving deep into **TypeScript**, learning **Next.js**
 - Learning the ropes with **Docker**, **Redux**, **Node**, **MongoDB**, and **Express** 
 
 ### 💬 Let's Connect!
