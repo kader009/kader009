@@ -18,7 +18,13 @@ I'm a passionate Front End Developer from Bangladesh 🍟
 
 ### 🌱 Currently Exploring
 - Diving deep into **TypeScript**, learning **Next.js**
-- Learning the ropes with **Docker**, **Redux**, **Node**, **MongoDB**, and **Express** 
+- Learning the ropes with **Docker**, **Redux**, **Node**, **MongoDB**, and **Express**
+
+  ### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
 
 ### 💬 Let's Connect!
 - Curious about something? Feel free to ask me anything! 💬✨
