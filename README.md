@@ -23,7 +23,7 @@ I'm a passionate Front End Developer from Bangladesh 🍟
 
 ### 💬 Let's Connect!
 - Curious about something? Feel free to ask me anything! 💬✨
-- 📫 Want to get in touch? Check out my [GitHub bio](https://github.com/kader009/kader009) for more details 📬📱
+- 📫 Want to get in touch? Check out my [GitHub bio](https://github.com/kader009/kader009) for more details if you want 📬📱
 
 ### 🎬 Fun Fact
 - I'm a huge movie buff! 🎬🍿
