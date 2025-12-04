@@ -47,8 +47,25 @@ I'm a passionate Front End Developer from Bangladesh 🍟
  
 
 ### 🌱 Currently Exploring
-- Diving deep into **TypeScript**, learning **Next.js**
-- Learning the ropes with **Docker**, **Redux**, **Node**, **MongoDB**, and **Express**
+<p align="left">
+
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+
+  <!-- AI (No official Devicon) → clean badge -->
+  <img src="https://img.shields.io/badge/AI-Tools-black?style=for-the-badge" height="40"/>
+
+</p>
+
 
 
 ### 💬 Let's Connect!
