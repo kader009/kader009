@@ -22,7 +22,15 @@ I'm a passionate Front End Developer from Bangladesh 🍟
   <img src="https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge" />
 </p>
  
-- **Comfortable:** Node, MongoDB, Express.js. 
+- **Comfortable:** <p align="left">
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+  <!-- Express -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
+</p>
+ 
 
 ### 🌱 Currently Exploring
 - Diving deep into **TypeScript**, learning **Next.js**
