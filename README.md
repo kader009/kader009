@@ -2,7 +2,7 @@
 
 
   <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://drive.google.com/file/d/1CZ_rDpea-wGwmqtn0cTBghBZ-sv1gvBy/view?usp=sharing"
     alt="example" />
 </p>
 <br>
