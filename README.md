@@ -2,9 +2,9 @@
 
 
   <p align="center">
-  <img  src="https://drive.google.com/file/d/1CZ_rDpea-wGwmqtn0cTBghBZ-sv1gvBy/view?usp=sharing"
-    alt="example" />
+  <img src="https://drive.google.com/uc?export=view&id=1CZ_rDpea-wGwmqtn0cTBghBZ-sv1gvBy" alt="example" />
 </p>
+
 <br>
 
 ## Hello there! 👋👋 I'm Md Abdul Kader Molla
