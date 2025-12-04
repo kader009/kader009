@@ -59,7 +59,7 @@ I'm a passionate Front End Developer from Bangladesh 🍟
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
 
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" height="45"/>
 
   <!-- AI (No official Devicon) → clean badge -->
   <img src="https://img.shields.io/badge/AI-Tools-black?style=for-the-badge" height="40"/>
