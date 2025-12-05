@@ -60,6 +60,7 @@ I’m Md Abdul Kader Molla, a Front-End Developer specializing in React, Next.js
   <img src="https://img.shields.io/badge/AI-Tools-black?style=for-the-badge" height="40"/>
 
 </p>
+- Currently working on my personal project, productReview portal website.
 
 
 
