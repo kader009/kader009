@@ -7,9 +7,7 @@
 
 <br>
 
-## Hello there! 👋👋 I'm Md Abdul Kader Molla
-
-I'm a passionate Front End Developer from Bangladesh 🍟
+I’m Md Abdul Kader Molla, a Front-End Developer specializing in React, Next.js, TypeScript, and modern UI engineering. I focus on crafting high-performance, accessible, and maintainable interfaces that deliver real business value. I enjoy solving complex frontend challenges, optimizing user experience, and building clean, scalable architectures. Currently strengthening my expertise as I transition toward a mid-level engineering role 🍟
 
 ### 🚀 Skills & Tools
 - **Languages & Frameworks:** <p align="left">
