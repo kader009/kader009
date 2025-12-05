@@ -7,7 +7,7 @@
 
 <br>
 
-I’m Md Abdul Kader Molla, a Front-End Developer specializing in React, Next.js, TypeScript, and modern UI engineering. I focus on crafting high-performance, accessible, and maintainable interfaces that deliver real business value. I enjoy solving complex frontend challenges, optimizing user experience, and building clean, scalable architectures. Currently strengthening my expertise as I transition toward a mid-level engineering role 🍟
+I’m Md Abdul Kader Molla, a Front-End Developer specializing in React, Next.js, TypeScript, and modern UI engineering. I focus on crafting high-performance, accessible, and maintainable interfaces that deliver real business value. I enjoy solving complex frontend challenges, optimizing user experience, and building clean, scalable architectures. Currently strengthening my expertise as I transition toward a junior-level engineering role 🍟
 
 ### 🚀 Skills & Tools
 - **Languages & Frameworks:** <p align="left">
@@ -64,8 +64,8 @@ I’m Md Abdul Kader Molla, a Front-End Developer specializing in React, Next.js
 
 
 ### 💬 Let's Connect!
-- Curious about something? Feel free to ask me anything! 💬✨
-- 📫 Want to get in touch? Check out my [GitHub bio](https://github.com/kader009/kader009) for more details if you want 📬📱
+- Curious about something? Feel free to ask me anything!
+<p align="left"> <!-- GitHub --> <a href="https://github.com/kader009" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/> </a> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/abdul-kader-molla-b48b2b1b7/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/> </a> <!-- Facebook --> <a href="https://facebook.com/ra.sel.7549/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35" height="35" alt="Facebook"/> </a> <!-- Gmail --> <a href="mailto:kadermollarasel000@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35" height="35" alt="Gmail"/> </a> </p>
 
 ### 🎬 Fun Fact
 - I'm a huge movie buff! 🎬🍿
