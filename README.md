@@ -65,7 +65,7 @@ I’m Md Abdul Kader Molla, a Front-End Developer specializing in React, Next.js
 
 ### 💬 Let's Connect!
 - Curious about something? Feel free to ask me anything!
-<p align="left"> <!-- GitHub --> <a href="https://github.com/kader009" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/> </a> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/abdul-kader-molla-b48b2b1b7/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/> </a> <!-- Facebook --> <a href="https://facebook.com/ra.sel.7549/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35" height="35" alt="Facebook"/> </a> <!-- Gmail --> <a href="mailto:kadermollarasel000@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35" height="35" alt="Gmail"/> </a> </p>
+<p align="left"> <!-- GitHub --> <a href="https://github.com/kader009" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/> </a> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/abdul-kader-molla-b48b2b1b7/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/> </a> <!-- Facebook --> <a href="https://facebook.com/ra.sel.7549/" target="_blank"> <img src="https://skillicons.dev/icons?i=facebook" width="42" alt="Facebook"/> </a> <!-- Gmail --> <a href="mailto:kadermollarasel000@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail"/> </a> </p>
 
 ### 🎬 Fun Fact
 - I'm a huge movie buff! 🎬🍿
