@@ -79,9 +79,9 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kader009)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kader009)](https://github.com/kader009/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kader009)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kader009&show_icons=true)
+
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kader009)  
