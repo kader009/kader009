@@ -79,14 +79,9 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kader009)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Top Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kader009&theme=react&layout=compact&hide_border=true)](https://github.com/kader009)
+github a ai duita kaj kore na keno [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kader009)](https://github.com/kader009/github-readme-stats)
 
-<!-- GitHub Stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kader009&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/kader009)
-
-<!-- Streak Stats (অপশনাল কিন্তু দারুণ লাগে) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kader009&theme=react&hide_border=true)](https://github.com/kader009)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kader009&show_icons=true)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kader009)  
