@@ -85,7 +85,7 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=kader009)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kader009" alt="GitHub Streak" /></a>
 <be>
 <be>
 ![Profile Views](https://komarev.com/ghpvc/?username=kader009)
