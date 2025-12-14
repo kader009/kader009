@@ -77,14 +77,11 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'> <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'> <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'> <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'> <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kader009)
-
-
+<br>
 
 [![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=kader009&layout=compact&cache_seconds=7200)](https://github.com/kader009)
 
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=kader009&show_icons=true&cache_seconds=7200)
-
 
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=kader009) <br>
@@ -93,12 +90,4 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 ![Profile Views](https://komarev.com/ghpvc/?username=kader009)
 <be>
 [![Bottom Header](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)](https://github.com/kader009)
-
-
-
-
-<br>
-
-
-
 
