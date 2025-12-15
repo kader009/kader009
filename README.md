@@ -71,7 +71,7 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 <p align="left"> <!-- GitHub --> <a href="https://github.com/kader009" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/> </a> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/abdul-kader-molla-b48b2b1b7/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/> </a> <!-- Facebook (modern full-color icon) --> <a href="https://facebook.com/ra.sel.7549/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="42" alt="Facebook"/> </a> <!-- Gmail --> <a href="mailto:kadermollarasel000@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail"/> </a> </p>
 <br>
 
-### 🍟 Problem solving site
+### 🍟 Problem Solving Profile
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kadermollarasel1)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kader009)
 
