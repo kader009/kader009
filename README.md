@@ -84,9 +84,9 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 
 <br>
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=kader009&layout=compact&cache_seconds=7200)](https://github.com/kader009)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kader009&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=kader009&show_icons=true&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kader009&show_icons=true&theme=dark)
 
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=kader009) <br>
