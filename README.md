@@ -85,8 +85,8 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 <br>
 
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kader009&theme=light)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kader009&theme=light)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kader009&theme=dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kader009&theme=dark)
 
 
 
