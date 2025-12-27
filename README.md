@@ -88,7 +88,8 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kader009&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=1800)
 
-![Metrics](https://metrics.lecoq.io/kader009?template=classic&languages=1&stars=1&repositories=1&theme=dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kader009&theme=dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kader009&theme=dark)
 
 
 
