@@ -75,8 +75,8 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kadermollarasel1)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kader009)
 
-### 🎬 Fun Fact
-- I'm a huge movie buff! 🎬🍿
+### Fun Fact
+- I'm a huge movie buff! 🍿
 
 <br>
 
