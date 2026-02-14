@@ -62,7 +62,7 @@ Currently strengthening my expertise as I transition toward a junior-level devel
   <img src="https://img.shields.io/badge/AI-Tools-black?style=for-the-badge" height="40"/>
 
 </p>
-- Currently working on my personal project, productReview portal website.
+- Currently working on my personal project, productReview portal website and learning GraphQL, Prisma.
 
 
 
