@@ -49,11 +49,11 @@ Currently strengthening my expertise as I transition toward a junior-level devel
 ###  Currently Exploring
 <p align="left">
 
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <!-- GraphQL -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45"/>
 
-  <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+ <!-- Prisma -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45"/>
 
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
@@ -61,7 +61,8 @@ Currently strengthening my expertise as I transition toward a junior-level devel
   <!-- AI (No official Devicon) → clean badge -->
   <img src="https://img.shields.io/badge/AI-Tools-black?style=for-the-badge" height="40"/>
 
-</p>
+ </p>
+ 
 - Currently working on my personal project, productReview portal website and learning GraphQL, Prisma.
 
 
