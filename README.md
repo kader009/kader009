@@ -9,7 +9,7 @@
 
 ### About Me
 I'm a Front End Developer work with **React**, **Next.js**, **TypeScript**, **Redux toolkit**, and modern UI engineering. I focus on crafting high-performance, accessible, and maintainable interfaces that deliver real business value. I enjoy solving complex frontend challenges, optimizing user experience, and building clean, scalable architectures
-Currently strengthening my expertise as I transition toward a junior-level developer/programmer/engineering role inside remote/local BD company.
+Currently strengthening my expertise as I transition toward a junior-level developer/programmer/engineering role inside a remote/local BD company.
 
 ### Skills & Tools
 - **Languages & Frameworks:** <p align="left">
@@ -61,9 +61,12 @@ Currently strengthening my expertise as I transition toward a junior-level devel
   <!-- AI (No official Devicon) → clean badge -->
   <img src="https://img.shields.io/badge/AI-Tools-black?style=for-the-badge" height="40"/>
 
+  <!-- Socket.io -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="45" height="45"/>
+
  </p>
  
-- Currently working on my personal project, productReview portal website and learning GraphQL, Prisma.
+- Currently working on my personal project, travelbuddy website, and learning GraphQL and Prisma.
 
 
 
