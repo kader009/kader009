@@ -8,11 +8,11 @@
 <br>
 
 ### About Me
-I'm a Front End Developer work with **React**, **Next.js**, **TypeScript**, **Redux toolkit**, and modern UI engineering. I focus on crafting high-performance, accessible, and maintainable interfaces that deliver real business value. I enjoy solving complex frontend challenges, optimizing user experience, and building clean, scalable architectures
+I'm a Front End Developer who works with **React**, **Next.js**, **TypeScript**, **Redux Toolkit**, and modern UI engineering. I focus on crafting high-performance, accessible, and maintainable interfaces that deliver real business value. I enjoy solving complex frontend challenges, optimizing user experience, and building clean, scalable architectures
 Currently strengthening my expertise as I transition toward a junior-level developer/programmer/engineering role inside a remote/local BD company.
 
 ### Skills & Tools
-- **Languages & Frameworks:** <p align="left">
+- **Languages & Frameworks:** <p align="center">
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <!-- React -->
