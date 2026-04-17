@@ -12,7 +12,7 @@ I'm a Front End Developer who works with **React**, **Next.js**, **TypeScript**,
 Currently strengthening my expertise as I transition toward a junior-level developer/programmer/engineering role inside a remote/local BD company.
 
 ### Skills & Tools
-- **Languages & Frameworks:** <p align="center">
+- **Languages & Frameworks:** <p align="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <!-- React -->
